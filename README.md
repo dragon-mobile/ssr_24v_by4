@@ -2,12 +2,15 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/static/v1?label=license&message=CERN-OHL-W-2.0%20%2F%20MIT%20%2F%20CC-BY-SA-4.0&color=orange)<br/>
 ![GitHub](https://img.shields.io/github/issues/dragon-mobile/ssr_24v_by4)
+![GitHub](https://img.shields.io/github/v/release/dragon-mobile/ssr_24v_by4)
+![GitHub](https://img.shields.io/github/release-date/dragon-mobile/ssr_24v_by4)
 ![GitHub](https://img.shields.io/github/last-commit/dragon-mobile/ssr_24v_by4)<br/>
 
-The Solid State Relays - 24Volts by 4 is one of the open hardware solid state relay
-PCB of my Dragon Mobile GitHub organization with a goal to make
-useful hardware with associated firmware and software for the tiny home, van
-life and maker communities.
+
+The SSR 24Volts by 4 board is one of the open hardware solid state relay
+PCB of my Dragon Mobile GitHub organization with a goal to make useful
+hardware with associated firmware and software for the tiny home, van life
+and maker communities.
 
 ## Contributing
 
